@@ -1,0 +1,10 @@
+Early Warning System of Disk Space
+
+The system warns the mail about the lack of disk space.
+It's configurable in base.cfg file.
+U are able to configure limits to turn on the alarm:
+- critical
+- warning
+
+For more details look to the 'config file' base.cfg.
+
